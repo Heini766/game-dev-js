@@ -1,0 +1,21 @@
+{
+  "name": "svggamedev",
+  "version": "1.0.0",
+  "description": "An SVG game development library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["game", "design", "library"],
+  "author": "Heinrich",
+  "license": "UNLICENSED",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Heini766/DOM-render-library.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Heini766/DOM-render-library/issues"
+  },
+  "homepage": "https://github.com/Heini766/DOM-render-library#readme",
+  "type": "module"
+}
