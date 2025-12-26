@@ -11,11 +11,11 @@
   "license": "UNLICENSED",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Heini766/DOM-render-library.git"
+    "url": "git+https://github.com/Heini766/svggamedev.git"
   },
   "bugs": {
-    "url": "https://github.com/Heini766/DOM-render-library/issues"
+    "url": "https://github.com/Heini766/svggamedev/issues"
   },
-  "homepage": "https://github.com/Heini766/DOM-render-library#readme",
+  "homepage": "https://github.com/Heini766/svggamedev#readme",
   "type": "module"
 }
