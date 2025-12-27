@@ -1,1 +1,1 @@
-export { Main } from './src/main.js';
+export { default as Game } from './src/game/game.js';
