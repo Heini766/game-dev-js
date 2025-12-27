@@ -10,6 +10,11 @@ jsdelivr - `import { Game } from "https://cdn.jsdelivr.net/gh/Heini766/game-dev-
 
 GitHub repository - [game-dev-js](https://github.com/Heini766/game-dev-js)
 
-## Game class
+## Game module
+
 `const game = new Game()`
+
+***Methods***
+- `game.newDisplay()`
+- `game.start()`
 
