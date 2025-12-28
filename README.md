@@ -17,4 +17,11 @@ GitHub repository - [game-dev-js](https://github.com/Heini766/game-dev-js)
 ***Methods***
 - `game.newDisplay()`
 - `game.start()`
+- `game.createEntity()`
+- `game.new()`
+
+**.createEntity()**
+
+Parameters - (name, config)
+
 
